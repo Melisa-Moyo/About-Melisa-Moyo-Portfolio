@@ -99,6 +99,7 @@ p {
   }
   h2 {
     font-size: 25px;
+    text-align: center;
   }
   h3 {
     font-size: 15px;
@@ -117,5 +118,10 @@ p {
   .img-fluid {
     width: 330px;
     margin-left: 10px;
+  }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
